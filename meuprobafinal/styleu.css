@@ -1,0 +1,43 @@
+ p {
+    color: lightgreen;
+}
+body {
+  background-image: url('https://t4.ftcdn.net/jpg/05/11/09/55/360_F_511095523_WUmBt4yw9wAkNA72R5GHOvMP1vpU8p9W.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:100% 100%; color:white; font-family: Verdana; font-size: 24px;
+  font-family:"pixelify sans" ;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  font-family: 'Pixelify Sans', sans-serif;
+  }
+  h1 {
+      color:lightgreen;
+  }
+  li {
+      color: yellow;
+  }
+    button {
+    font-family: "pixelify sans";
+    font-size: 26px;
+    color:white;
+    background-color: black;
+    border: 3px solid lightgreen;
+    height: 60px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    text-align:center;
+  }
+  header{
+    display:flex;
+    justify-content:space-around;
+}
+ a{
+    font-size:24px;
+    color:white;
+    text-decoration:none;
+}
+a:hover{
+    color:#00ff78;
+}
